@@ -1,3 +1,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = git@github.com:Mercurial5/hacknu24-crawler.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Mercurial5/hacknu24-backend.git
